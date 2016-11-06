@@ -1,0 +1,41 @@
+
+## This doc was written by Zevfer
+
+######  This file shall go over the details of what has changed for this version
+
+
+# The aim of this update is to overhual the building system, it also will prepare things for coming updates
+
+Version 0.1
+##################
+1. Added 5 new fallen empire initializers 
+2. Changed "robotic" in sector settings to "robotic = yes"
+3. The station hitpoints have all been increased. 
+4. Adds 2000+ colors
+
+
+##########
+
+  Buildings
+
+#################
+* Adds Basic Science Lab levels 2 and 3
+* Changes it to allow Empire Capital-Complex on more than just the home planet
+* Allows you to upgrade level 5 energy, mineral and food to fallen empire buildings
+* Enables you to upgrade primitive buildings
+* Adds Research Hub with three levels
+* Changes some things for the Institute
+     * Changes all tech produces to 7 from 5
+     * Lowers the energy upkeep to 8 from 10
+     * Chnages the country modifier to 
+
+
+##########
+
+  Tech
+
+#################
+* Adds 2 more levels of scientific thought for 2 more basic science labs
+* Adds three new techs which unlock the science hub
+   * 
+

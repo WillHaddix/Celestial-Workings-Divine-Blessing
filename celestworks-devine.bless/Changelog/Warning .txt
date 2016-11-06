@@ -1,0 +1,10 @@
+This mod will touch almost every base file in the game, so it is advised to not run this with any other mods.
+
+Thanks
+
+
+--------
+
+Currently affects ---
+
+* 00_buildings.txt

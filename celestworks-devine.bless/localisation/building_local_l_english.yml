@@ -1,0 +1,24 @@
+﻿l_english:
+
+#################################################################################
+
+## Written By --> Zevfer
+
+## -----> Please credit me on anything you take from my work. Thanks! <------
+
+#################################################################################
+
+## Localization begins here
+
+
+building_basic_science_lab_2:0 "Basic Science Lab II"
+building_basic_science_lab_2_desc:0 "$building_basic_science_lab_1_desc$"
+building_basic_science_lab_3:0 "Basic Science Lab III"
+building_basic_science_lab_3_desc:0 "$building_basic_science_lab_1_desc$"
+
+building_science_hub_1:0 "Science Hub I"
+building_science_hub_1_desc:0 "The science hub is, as the name suggests, a hub for all the research from the close science labs to be localized and documented."
+building_science_hub_2:0 "Science Hub II"
+building_science_hub_2_desc:0 "$building_science_hub_1_desc$"
+building_science_hub_3:0 "Science Hub III"
+building_science_hub_3_desc:0 "$building_science_hub_1_desc$"

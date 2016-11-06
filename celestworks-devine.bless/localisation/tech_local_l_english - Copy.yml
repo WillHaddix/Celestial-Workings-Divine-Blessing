@@ -1,0 +1,24 @@
+﻿l_english:
+
+#################################################################################
+
+## Written By --> Zevfer
+
+## -----> Please credit me on anything you take from my work. Thanks! <------
+
+#################################################################################
+
+## Localization begins here
+
+
+tech_basic_science_lab_2:0 "Scientific Method II"
+tech_basic_science_lab_2_desc:0 "$tech_basic_science_lab_1_desc$"
+tech_basic_science_lab_3:0 "Scientific Method III"
+tech_basic_science_lab_3_desc:0 "$tech_basic_science_lab_1_desc$"
+
+tech_scientific_organization_1:0 "Scientific Organization I"
+tech_scientific_organization_1_desc:0 "Scienctific information must not be handled lightly, it must be gathered and docuamented for future reference."
+tech_scientific_organization_2:0 "Scientific Organization II"
+tech_scientific_organization_2_desc:0 "tech_scientific_organization_1_desc$"
+tech_scientific_organization_3:0 "Scientific Organization III"
+tech_scientific_organization_3_desc:0 "$tech_scientific_organization_1_desc$"
