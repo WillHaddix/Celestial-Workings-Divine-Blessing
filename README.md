@@ -7,7 +7,7 @@ The other mods will be integrated into it(edited)
 
 Progressing to
 
-Version --> 0.1 | Alpha one
+#### Version --> 0.1 | Alpha one
 
 Goal of this update --> An overhual of the buildings(edited)
 
