@@ -2,7 +2,7 @@
 
 The name of the mod is called Celestial Workings - Divine Blessing
 It will be our be-all end-all mod | So we are only gonna focus on one mod
-The other mods will be integrated into it(edited)
+The other mods will be integrated into it
 -------------------------------------
 
 Progressing to
