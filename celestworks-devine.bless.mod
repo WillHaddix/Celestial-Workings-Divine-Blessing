@@ -6,4 +6,5 @@ tags={
 	"Gameplay"
 	"Celestial Workings"
 }
+picture="celesworks-devinebless.jpg"
 supported_version="1.3.*"
