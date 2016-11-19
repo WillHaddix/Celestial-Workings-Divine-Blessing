@@ -9,7 +9,7 @@ Progressing to
 
 #### Version --> 0.1 | Alpha one
 
-Goal of this update --> An overhual of the buildings(edited)
+Goal of this update --> An overhual of the buildings
 
 
 ## Roadmap
